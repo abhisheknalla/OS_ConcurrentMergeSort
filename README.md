@@ -11,10 +11,10 @@ report.
 5. You must use the shmget, shmat functions as taught in the tutorial.
 
 Bonus:
+
 6. Use threads in place of processes for the Problem. Add the performance comparison to the above report.
 
 
-Solution Explanation:
 # Code Report for Merge Sort:
 
 Timing the code and comparing its performance with the traditional sequential code shows that the sequential sort performs better.
